@@ -1,2 +1,1 @@
-# ResourceProvisioning
-Professional ResourceProvisioning solution with ResourceProvisioning-optimized modern-design and enterprise enterprise-grade capabilities
+.
